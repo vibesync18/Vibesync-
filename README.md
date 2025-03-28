@@ -1,2 +1,1 @@
-# Vibesync-
-An app , social media app
+# Vibesync_18
